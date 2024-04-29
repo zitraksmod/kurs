@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  apache:
+    build:
+      context: .
+      dockerfile: Dockerfile.apache
+    restart: always
+    ports:
+      - "80:80"
+
+  postgres:
+    build:
+      context: .
+      dockerfile: Dockerfile.sql
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: vva_secret
+    ports:
+      - "5432:5432"
