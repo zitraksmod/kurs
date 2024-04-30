@@ -9,5 +9,5 @@
 29/04/2024
 
 1. Dynamic route: OSPF
-2. Red os server installation: docker-compose sql+web (configuration: kurs/docker-compose.yml)
-3. Red os workstation installation
+2. RedOS server installation: docker-compose sql+web -> read docker-compose.yml
+3. RedOS workstation installation
