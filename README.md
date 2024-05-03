@@ -14,4 +14,4 @@
 
 30/04/2024
 
-1. RedOS reverse proxy installation -> read reverse-proxy
+1. Debian reverse proxy installation -> read reverse-proxy
