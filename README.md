@@ -8,9 +8,8 @@
 
 29/04/2024
 
-1. Dynamic routing: OSPF
-2. RedOS server installation: docker-compose sql+web -> read docker-compose.yml
-3. RedOS workstation installation
+1. RedOS server installation: docker-compose sql+web -> read docker-compose.yml
+2. RedOS workstation installation
 
 30/04/2024
 
