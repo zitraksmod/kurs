@@ -14,3 +14,7 @@
 30/04/2024
 
 1. Debian reverse proxy installation -> read reverse-proxy
+
+06/05/2024
+
+1. DNS
